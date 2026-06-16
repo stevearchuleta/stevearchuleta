@@ -8,6 +8,8 @@ Microsoft Azure. My path here was nonlinear: NIH biomedical researcher, teacher,
 retail entrepreneur, and — in my fifties — a full retraining into engineering,
 analytics, deep learning, and quantitative finance.
 
+##### https://stevearchuleta.com
+
 ### 🌱 WQU MScFE 690 Capstone Project — riskml
 - **Recorded Presentation (.mp4):**
   https://drive.google.com/file/d/1AU_7lRUoXT81RAlRcl6UMSPrgZZitxOD/view?usp=sharing
